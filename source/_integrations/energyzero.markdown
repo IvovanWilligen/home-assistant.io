@@ -30,6 +30,7 @@ Partners who are a reseller from EnergyZero:
 - [Mijndomein Energie](https://www.mijndomein.nl/energie)
 - [SamSam](https://www.samsam.nu)
 - [ZonderGas](https://www.zondergas.nu)
+- [Tibber](https://www.tibber.com/nl)
 
 {% include integrations/config_flow.md %}
 
